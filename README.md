@@ -1,8 +1,8 @@
-## Hi there 👋
+# Saudações
 
-my name is Nicolas Almeida and I am studying to become a full stack developer, I live in São Paulo, SP, I have always liked programming a lot and I decided to start my studies and I am looking for my first job in the field.
+Meu nome é Nicolas Almeida e estou estudando para me tornar um desenvolvedor full stack. Moro em São Paulo, SP. Sempre gostei muito de programação e decidi começar meus estudos.
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me: nicolas.alch@outlook.com
-
+🌱 Tecnologias que utilizo ![Uploading image.png…]()
+HTML, CSS e JavaScript
+📫 Como me encontrar: nicolas.alch@outlook.com
 

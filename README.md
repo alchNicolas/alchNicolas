@@ -10,6 +10,8 @@ Tecnologias que utilizo
 - JavaScript
 
 - NodeJS
+
+- Java
   
 📫 Como me encontrar: nicolas.alch@outlook.com
 
